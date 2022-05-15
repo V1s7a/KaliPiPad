@@ -1,7 +1,7 @@
 # KaliPiPad
 iPad setup with Kali Linux on Raspberry Pi 4
 
-KaliPiPad.ppx
+KaliPiPad.pptx
 - Detailed Explaination of how to set up and configure Kali on Raspberry Pi same slides used in YouTube videos.
 
 usb.sh
