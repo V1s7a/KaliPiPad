@@ -19,7 +19,7 @@ SD Card https://www.amazon.com/dp/B08GY8NHF2?ref_=cm_sw_r_cp_ud_dp_W3AB874BMFE28
 
 Anker Thunderbolt 3 Cable https://www.amazon.com/dp/B076D76DRQ?ref_=cm_sw_r_cp_ud_dp_3DEV19VD83FZJ9HK6V7B
 
-Download Kali ARM Linux Image for Raspberry Pi https://www.kali.org/get-kali/#kali-arm
+Download Kali ARM Linux Image for Raspberry Pi (64-bit) https://www.kali.org/get-kali/#kali-arm
 
 Download Raspberry Pi Imager https://www.raspberrypi.com/software/
 
