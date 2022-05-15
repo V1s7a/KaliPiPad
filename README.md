@@ -10,17 +10,18 @@ usb.sh
 
 # Written Instructions
 
-Download Kali ARM Linux Image for Raspberry Pi https://www.kali.org/get-kali/#kali-arm
+## Resources Needed (Suggestion Links Included)
+iPad with USB-C Connection
 
-Download Raspberry Pi Imager https://www.raspberrypi.com/software/
-## Materials Needed (Suggestion Links Included)
 Raspberry Pi 4 https://www.amazon.com/dp/B07TC2BK1X?ref_=cm_sw_r_cp_ud_dp_BFSDX8HR9486EC93YTPT
 
 SD Card https://www.amazon.com/dp/B08GY8NHF2?ref_=cm_sw_r_cp_ud_dp_W3AB874BMFE28EFT28GT
 
 Anker Thunderbolt 3 Cable https://www.amazon.com/dp/B076D76DRQ?ref_=cm_sw_r_cp_ud_dp_3DEV19VD83FZJ9HK6V7B
 
-iPad with USB-C Connection
+Download Kali ARM Linux Image for Raspberry Pi https://www.kali.org/get-kali/#kali-arm
+
+Download Raspberry Pi Imager https://www.raspberrypi.com/software/
 
 ## Create Kali Image with RPI Imager
 Select downloaded kali image for OS
