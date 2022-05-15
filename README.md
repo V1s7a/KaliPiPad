@@ -30,3 +30,4 @@ SSH
 
 ### Windows
 
+## Configure Kali to work with iPad
