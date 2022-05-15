@@ -24,4 +24,9 @@ Pi Name
 SSH
 - aasdf
 
+## Connect to Pi via Ethernet
+### Mac OSX
+
+
+### Windows
 
