@@ -9,3 +9,8 @@ usb.sh
 
 
 ## Written Instructions
+
+Download Kali ARM Linux Image for Raspberry Pi https://www.kali.org/get-kali/#kali-arm
+
+Download Raspberry Pi Imager https://www.raspberrypi.com/software/
+
