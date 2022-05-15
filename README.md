@@ -20,6 +20,7 @@ Select SD Card for write media
 ### Image Settings
 Pi Name
 - asd
+
 SSH
 - aasdf
 
